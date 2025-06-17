@@ -1,7 +1,10 @@
 **To deploy AWS infrastructure (not via pipeline)**
-    cd terraform
-    terraform init
-    terraform apply
+```
+cd terraform
+terraform init
+terraform apply
+```
+
 
 
 
