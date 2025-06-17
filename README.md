@@ -1,7 +1,8 @@
 **To deploy AWS infrastructure (not via pipeline)**
-cd terraform
-terraform init
-terraform apply
+    cd terraform
+    terraform init
+    terraform apply
+
 
 
 **GitHub Secrets Required For Pipeline Execution. CI/CD runs on commits to main**
